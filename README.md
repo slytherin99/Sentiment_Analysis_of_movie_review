@@ -52,3 +52,13 @@ Tf-idf ( frequency–inverse document frequency): Numerical statistic that is in
 
 3. Divide our sentiment into more classes like (neutral , somewhat positive, somewhat negative)
 
+## Citations
+
+[1]https://www.oreilly.com/library/view/applied-text-analysis/9781491963036/ch04.html
+[2]https://towardsdatascience.com/text-classification-using-k-nearest-neighbors-46fa8a77acc5
+[3]https://www.oreilly.com/library/view/applied-text-analysis/9781491963036/ch04.html
+[4]https://www.youtube.com/watch?v=ZeQgNhc0vag
+[5]https://github.com/shubham721/Sentiment-Analysis-On-Hindi-Reviews
+[6]https://medium.com/analytics-vidhya/neural-machine-translation-for-hindi-english-sequence-to-sequence-learning-1298655e334a
+[7]https://towardsdatascience.com/google-translate-api-for-python-723093c2144b
+
